@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Open in Deckle",
+        "command": "rw-deckle:launch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Open in Deckle",
+          "submenu": [
+            {
+              "label": "Launch",
+              "command": "rw-deckle:launch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
