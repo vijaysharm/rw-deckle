@@ -15,7 +15,7 @@
           "label": "Open in Deckle",
           "submenu": [
             {
-              "label": "Launch",
+              "label": "Open",
               "command": "rw-deckle:launch"
             }
           ]
